@@ -23,3 +23,5 @@ This service provides REST endpoints for creating and retrieving purchase orders
 | Port | 8082 |
 
 ![Catalog and Order Docker images](images/docker-images.png)
+
+6.
