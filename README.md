@@ -22,4 +22,4 @@ This service provides REST endpoints for creating and retrieving purchase orders
 | Service Name | purchaseOrder-service |
 | Port | 8082 |
 
-![Lab 7.png](../../OneDrive%20-%20Atlantic%20TU/3rd%20Year/CICD/Images/Lab%207.png)
+![docker-images.png](images/docker-images.png)
